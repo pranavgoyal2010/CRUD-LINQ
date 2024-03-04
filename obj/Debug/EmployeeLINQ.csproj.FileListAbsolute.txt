@@ -1,0 +1,7 @@
+C:\Users\prana\Desktop\BridgeLabz\ADO.NET\EmployeeLINQ\bin\Debug\EmployeeLINQ.exe.config
+C:\Users\prana\Desktop\BridgeLabz\ADO.NET\EmployeeLINQ\bin\Debug\EmployeeLINQ.exe
+C:\Users\prana\Desktop\BridgeLabz\ADO.NET\EmployeeLINQ\bin\Debug\EmployeeLINQ.pdb
+C:\Users\prana\Desktop\BridgeLabz\ADO.NET\EmployeeLINQ\obj\Debug\EmployeeLINQ.csproj.AssemblyReference.cache
+C:\Users\prana\Desktop\BridgeLabz\ADO.NET\EmployeeLINQ\obj\Debug\EmployeeLINQ.csproj.CoreCompileInputs.cache
+C:\Users\prana\Desktop\BridgeLabz\ADO.NET\EmployeeLINQ\obj\Debug\EmployeeLINQ.exe
+C:\Users\prana\Desktop\BridgeLabz\ADO.NET\EmployeeLINQ\obj\Debug\EmployeeLINQ.pdb
