@@ -129,8 +129,13 @@ namespace EmployeeLINQ
                 {
                     db.Employees.DeleteOnSubmit(employee);
                     db.SubmitChanges();
+                    return true;
                 }
-                return true;
+                else
+                {
+                    return false;
+                }
+
             }
             catch (Exception ex)
             {
@@ -155,8 +160,12 @@ namespace EmployeeLINQ
                     employee.EmployeeSalary = updatedEmployee.EmployeeSalary;
                     employee.EmployeeCity = updatedEmployee.EmployeeCity;
                     db.SubmitChanges();
+                    return true;
                 }
-                return true;
+                else
+                {
+                    return false;
+                }
             }
             catch (Exception ex)
             {
